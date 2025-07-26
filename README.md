@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/korcakSEA/single-price-grid-component-bootstrap.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://korcaksea.github.io/single-price-grid-component-bootstrap/)
 
 ## My process
 
